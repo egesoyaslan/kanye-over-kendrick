@@ -45,26 +45,26 @@ body {
 .kanye1 {
     width: 200px;
     height: auto;
-    margin-left: 10%;
+    margin-left: 5%;
     float: left;
 }
 
 .kendrick1 {
     width: 200px;
     height: auto;
-    margin-right: 10%;
+    margin-right: 5%;
     float: right;
 }
 
 .click1 {
     display: inline-block;
     background-color: #892be236;
-    width: 100px;
+    width: 120px;
 }
 
 .click2 {
     display: inline;
     float: right;
     background-color: #892be236;
-    width: 100px;
+    width: 120px;
 }
