@@ -15,15 +15,19 @@ body {
     text-align: center;
     font-size: 50px;
     font-weight: 1000;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 .quote {
     text-align: center;
+    margin-bottom: 10px;
+    margin-top: 0;
 }
 
 .credit {
     text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0;
 }
 
 .subtitle {
@@ -32,14 +36,16 @@ body {
     background-color: #892be236;
     padding: 10px;
     margin-bottom: 0;
+    margin-top: 0;
 }
 
 .desc {
-    margin-left: 20px;
+    margin-left: 30px;
     margin-right: 20px;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 600;
     margin-top: 15px;
+    margin-bottom: 60px;
 }
 
 .kanye1 {
@@ -60,6 +66,8 @@ body {
     display: inline-block;
     background-color: #892be236;
     width: 120px;
+    padding: 3px;
+    font-weight: bold;
 }
 
 .click2 {
@@ -67,4 +75,11 @@ body {
     float: right;
     background-color: #892be236;
     width: 120px;
+    padding: 3px;
+    font-weight: bold;
+}
+
+a:link,
+a:visited {
+    color: #ffe2bd;
 }
