@@ -1,3 +1,57 @@
 body {
     font-family: sans-serif;
 }
+
+.bg {
+    background: url(./img/kanyebg.png);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-size: auto;
+    color: #ffe2bd;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 1000;
+    margin-bottom: 15px;
+}
+
+.quote {
+    text-align: center;
+}
+
+.credit {
+    text-align: center;
+}
+
+.subtitle {
+    margin: 20px;
+    margin-top: 40px;
+    background-color: #892be236;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+.desc {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.kanye1 {
+    width: 200px;
+    height: auto;
+    margin-left: 10%;
+    float: left;
+}
+
+.kendrick1 {
+    width: 200px;
+    height: auto;
+    margin-right: 10%;
+    float: right;
+}
