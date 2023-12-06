@@ -1,8 +1,5 @@
 body {
     font-family: sans-serif;
-}
-
-.bg {
     background: url(./img/kanyebg.png);
     margin: 0;
     padding: 0;
@@ -53,6 +50,9 @@ body {
     height: auto;
     margin-left: 5%;
     float: left;
+    border-width: 10px;
+    border-color: #892be236;
+    border-style: solid;
 }
 
 .kendrick1 {
@@ -60,6 +60,10 @@ body {
     height: auto;
     margin-right: 5%;
     float: right;
+    border-width: 10px;
+    border-color: #892be236;
+    border-style: solid;
+    margin-bottom: 40px;
 }
 
 .click1 {
@@ -82,4 +86,30 @@ body {
 a:link,
 a:visited {
     color: #ffe2bd;
+}
+
+.kanyegif {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-width: 10px;
+    border-color: #892be236;
+    border-style: solid;
+}
+
+.list {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.back {
+    margin-top: 40px;
+    text-align: center;
+    display: block;
+    margin-bottom: 40px;
+}
+
+li {
+    margin-bottom: 5px;
 }
